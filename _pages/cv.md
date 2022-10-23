@@ -11,8 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in University of Glasgow, 2018
+* B.ENG. in University of Glasgow, 2018
+  * Major: Electric and Electronic Engineering
+  * Grade: First Class Honours
+
 * Ph.D in University of Glasgow, 2023 (expected)
+  * Research: Robotic Perception and Manipulation of Garments
+  * Thesis Supervisor: Dr Gerardo Aragon-Camarasa
 
 Work experience
 ======
@@ -42,4 +47,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* IEEE Graduate Student Member
