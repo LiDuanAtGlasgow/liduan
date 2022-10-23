@@ -4,7 +4,7 @@ collection: teaching
 type: "Msc course"
 permalink: /teaching/marking_assistance-2022
 venue: "University of Glasgow, School of Computing Science"
-date: 2019-05
+date: 2019-05-01
 location: "Glasgow, United Kingdom"
 ---
 
