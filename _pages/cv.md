@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.ENG. in University of Glasgow, 2018
-  * Major: Electric and Electronic Engineering
+  * Major: Electrical and Electronic Engineering
   * Grade: First Class Honours
 
 * Ph.D in University of Glasgow, 2023 (expected)
