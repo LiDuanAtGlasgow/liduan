@@ -18,13 +18,6 @@ Education
 * Ph.D in University of Glasgow, 2023 (expected)
   * Research: Robotic Perception and Manipulation of Garments
   * Thesis Supervisor: Dr Gerardo Aragon-Camarasa
-
-Work experience
-======
-* November 2022-present: Research Associate
-  * The University of Edinburgh
-  * Duties included: Research on data fusion, graph neural network and robotic navigation
-  * Supervisor: Dr Chris Xiaoxuan Lu
   
 
 Publications
