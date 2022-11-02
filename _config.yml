@@ -1,5 +1,4 @@
 # Welcome to Jekyll!
-#
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
@@ -10,7 +9,7 @@ locale                   : "en-US"
 title                    : "Li Duan"
 title_separator          : "-"
 name                     : &name "Li Duan"
-description              : &description "Research Associate at The University of Edinburgh"
+description              : &description "PhD student at the University of Glasgow"
 url                      : https://liduanatglasgow.github.io/liduan # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liduanatglasgow.github.io/liduan"
@@ -82,8 +81,8 @@ analytics:
 author:
   name             : "Li Duan"
   avatar           : "profile.png"
-  bio              : "Research Associate at The University of Edinburgh"
-  location         : "Edinburgh, Scotland"
+  bio              : "PhD student at the University of Glasgow"
+  location         : "Glasgow, Scotland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=D18dUngAAAAJ&hl=en&authuser=1"
